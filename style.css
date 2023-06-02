@@ -1,0 +1,21 @@
+.btn {
+  cursor: pointer;
+  margin: 250px;
+  padding: 30px;
+  width: 300px;
+  font-size: 30px;
+  font-family: monospace;
+  border: 10px solid black;
+  border-radius: 5px;
+}
+
+.btn-changed {
+  background-color: black;
+  color: white;
+  border: 10px solid white;
+  box-shadow: 0 0 10px 3px yellow;
+  animation: 1s;
+}
+.main-changed {
+  background-color: black;
+}
